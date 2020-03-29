@@ -1,0 +1,25 @@
+{
+  "name": "CoronaVirusUpdates",
+  "version": "1.0.0",
+  "description": "Updates on Corona Virus",
+  "author": "Fayaz",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "apexcharts": "^3.17.1",
+    "nuxt": "^2.0.0",
+    "nuxt-webfontloader": "^1.1.0",
+    "timeago.js": "^4.0.2",
+    "vue-apexcharts": "^1.5.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
